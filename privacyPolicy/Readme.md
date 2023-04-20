@@ -26,10 +26,10 @@ We may uses your information for the following purposes:
 - Security
 The security, integrity and confidentiality of your information are extremely important to us. We have implemented technical, administrative and physical security measures that are designed to protect guest information from unauthorized access, disclosure, use and modification.
 
-However, we cannot guarantee its absolute security. While no security system is completely secure,MiniPuzzleGameStudio and its third-party partners and vendors take appropriate security measures to protect against unauthorized access or disclosure of the information collected by us.
+However, we cannot guarantee its absolute security. While no security system is completely secure, MiniPuzzleGameStudio and its third-party partners and vendors take appropriate security measures to protect against unauthorized access or disclosure of the information collected by us.
 
 <b>Changes to this Privacy Policy</b>
 We may update this Privacy Policy to reflect changes to information practices. We will provide notice to you if these changes are material and, where required by applicable law, we will obtain your consent.
 
 <b>Contact Us</b>
-If you have questions or comments regarding how Our Company protects your information or this Privacy Policy, please contact us at: slotsfang@gmail.com
+If you have questions or comments regarding how Our Company protects your information or this Privacy Policy, please contact us at: MiniPuzzleGame@outlook.com
